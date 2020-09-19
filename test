@@ -1,0 +1,48 @@
+<HTML>
+<TITLE>HTML and JavaScript</TITLE> 
+
+<BODY BGCOLOR=RED TEXT=LIGHTBLUE LINK=RED VLINK=GREEN> 
+<CENTER><H1>Remote Learning</H1></CENTER> 
+ 
+ <HR>
+<BR><FONT FACE=TIMES SIZE=6 COLOR=BLACK>3 Things I Like About Remote Learning </FONT> 
+
+<ol type="1">
+<li>More and longer breaks between classes.</li>
+<li>Chance to work at your own pace.</li>
+<li>We can wake up later and won't be as tired.</li>
+</ol>
+
+<HR>
+<P><H2><A NAME="POWERFUL">3 Things I Don't Like About Remote Learning</A></H2></P> 
+
+
+<ul>
+<li>A lot of times computers are laggy or don't work.
+<li>We have to stare at a screen for a long time.
+<li>There is more work than in-person learning.
+</ul>
+
+<HR>
+
+<P><H2><A NAME="HYPERLINKS">Hyperlink to Remote Learning Resource </A></H2></P> 
+
+
+<BR><A HREF="https://www.techlearning.com/how-to/what-is-remote-learning">Click Here!</A> <BR><A
+<HR> 
+
+<HR>
+
+
+<P><H2><A NAME="PICTURES">Images</A></H2></P> 
+
+
+
+<IMG SRC="<img src="remote-learning.jpg"/>" HEIGHT=150 WIDTH=150> 
+
+<HR> 
+
+<p style="text-align:center;">Soham Sampat, WPD Practice HTML Webpage</p>
+
+</BODY> 
+</HTML> 
